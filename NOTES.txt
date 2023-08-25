@@ -1,0 +1,11 @@
+str() ==> Chaînes de caractères
+int() ==> Nombres entiers
+float() ==>  Nombres décimaux
+bool() ==> Booléens
+** Pour ajouter un element a une liste on utilise .appened(), 
+Pour ajouter plusieurs elements une listes on utile .extent()
+Pour supprimer un element a une liste on utilise .remove()
+
+ Hello
+ Hello
+ Hello

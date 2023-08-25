@@ -1,0 +1,7 @@
+{
+    "editor.cursorSmoothCaretAnimation": "off",
+    "workbench.editor.enablePreview": true,
+    "editor.hover.sticky": false,
+    "editor.hover.enabled": false,
+    "editor.hover.above": false
+}
